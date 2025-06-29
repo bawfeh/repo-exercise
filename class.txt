@@ -1,12 +1,11 @@
 Crimson\nOrange\nBlue
 Crimson
 Orange
-Blue
 Cyan
 Yellow
 Charcoal
 Khaki
-Coral
+milk
 Silver
 Fuchsia
 Purple
